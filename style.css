@@ -1,0 +1,16 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Nosifer');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+
+body {
+  font-family: 'Nosifer', cursive;
+ 
+  font-size: 18px;
+ 
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 32px;
+}
